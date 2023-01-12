@@ -1,6 +1,6 @@
-# 첫 GitHub
+# Github Intro
 
-## README 생성
+### README 생성
 
 - git 초기화
 
